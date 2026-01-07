@@ -14,6 +14,15 @@ The gestures as follows:
 4. `Index + middle + ring + pinky finger:` Used to erase the written text. 
 5. `Index + middle + pinky finger (hold 3 seconds):` Clear the whole screen
 
+## How to run
+1. Make sure python is installed in your system.
+2. Install the required dependencies.
+3. Connect a webcam or use the built-in camera of your laptop/monitor.
+4. Run the main application - python Deploy.py
+5. Use the finger gestures to draw, erase, navigate, and save drawings in real time.
+6. You can use the navigation bar as well on top of the video feed to perform various operations.
+7. Press 'X' to exit the application.
+
 ## System Implementation
 
 1. `Video Capture and Preprocessing:` This is done through the webcam and it is accessed using the OpenCV module available in python. The video must be inverted as the default feed is free of lateral inversion and if we write on this video, the text will be inverted.
