@@ -47,5 +47,5 @@ The gestures as follows:
 
 ## Roadmap
 
-The plan ahead would be to make the project more dynamic and user-friendly, we believe it has a lot of potential Implement a proper GUI for better user experience than what it is capable of providing now. 
+The Plan ahead would be to make the project more dynamic and user-friendly, we believe it has a lot of potential Implement a proper GUI for better user experience than what it is capable of providing now. 
 Add more functionalities based on more gestures and make it a proper application capable of running on any user’s system.
